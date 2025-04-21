@@ -1,0 +1,30 @@
+.color-example {
+    color: darkcyan;
+    text-shadow: 1px 1px;
+    background-color: crimson;
+    border-style: solid; border-width: 5px; border-color: black;
+}
+
+.header-example {
+    font-size: 16;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkblue
+}
+
+.list-example {
+    list-style:lower-greek;
+    color: green;
+}
+
+.text-example {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 11;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+
+.div-example {
+    background-color: aquamarine;
+    border-style: ridge;
+    border-color: blueviolet;
+}
