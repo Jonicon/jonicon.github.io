@@ -1,0 +1,24 @@
+body{
+    background-color: lightgrey;
+    max-width: 90%;
+}
+
+article {
+    background-color:antiquewhite;
+    width: 60%;
+    padding: 15px;
+}
+
+section{
+    background-color: azure;
+    width: 60%;
+    padding: 15px;
+    
+}
+
+aside{
+    background-color: beige;
+    max-width: 30%;
+    padding: 15px;
+    
+}
