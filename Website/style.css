@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(176, 192, 196);
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100;
+}
+
+a {
+    text-decoration: none;
+}
+
+.carousel-item {
+  width: 100%;
+  max-height: 200;
+}
