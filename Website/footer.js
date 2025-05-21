@@ -1,7 +1,7 @@
 document.write('<footer class="text-muted">\
   <div class="container-fluid  bg-light">\
     <div class="row">  \
-      <div class="col-sm-3 text-center">\
+      <div class="col-sm-3 text-center px-3">\
         <p>\
           Home of a finnish miniature artist Joni Kontusalmi.\
         </p>\
@@ -31,7 +31,7 @@ document.write('<footer class="text-muted">\
         </ul>\
       </div>\
       <div class="col-sm-4">\
-        <img src="images/portrait.jpg" class= "rounded-circle" width="20%" alt="In the grim\ darkness of the far future, there is only war">\
+        <img src="images/favicon.png" class= "rounded-circle" width="20%" alt="In the grim\ darkness of the far future, there is only war">\
       </div>\
   </div>\
   </div>\
