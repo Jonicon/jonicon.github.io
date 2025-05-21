@@ -7,7 +7,7 @@ document.write ('<nav class="navbar navbar-expand-md bg-light">\
                     </a> \
                 </div> \
                 <li class="nav-item"> \
-                    <a class="nav-link" href="#">Gallery</a> \
+                    <a class="nav-link" href="gallery.html">Gallery</a> \
                 </li> \
                 <li class="nav-item"> \
                     <a class="nav-link" href="contact.html">Contact</a> \
