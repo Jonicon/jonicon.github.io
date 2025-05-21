@@ -14,7 +14,7 @@ document.write ('<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boots
                     <a class="nav-link" href="contact.html">Contact</a> \
                 </li> \
                 <li class="nav-item">\
-                    <a class="nav-link" href="https://www.instagram.com/asceticminiatures"> <i  class="bi bi-instagram style="font-size: 2rem;"></i> </a>\
+                    <a class="nav-link" href="https://www.instagram.com/asceticminiatures"> <i  class="bi bi-instagram" style="font-size: 1rem;"></i> </a>\
                 </li>\
             </ul> \
         </div> \
